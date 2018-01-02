@@ -5,7 +5,7 @@
 
 Demo
 ============
- ![demo](.\README\demo.gif)
+ ![demo](https://github.com/iminit/36Topic_android/blob/master/README/demo.gif)
 
 
 
@@ -13,7 +13,7 @@ Demo
 All content
 ============
 
- ![demo](.\README\36topics.jpg)
+ ![demo](https://github.com/iminit/36Topic_android/blob/master/README/36topics.jpg)
 
 
 Developed By
